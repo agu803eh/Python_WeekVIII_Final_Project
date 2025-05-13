@@ -1,0 +1,5 @@
+The United States had a significantly higher total number of COVID-19 cases compared to Brazil.
+Brazil experienced a higher death rate compared to the United States during the analyzed period.
+Vaccination rates in the United States were generally higher than in Brazil, indicating a faster vaccine rollout in the US.
+The daily new cases peaked at different times for both countries, suggesting different waves of infection.
+The vaccination percentage in both countries increased over time, but the US achieved a higher percentage of vaccinated individuals.
